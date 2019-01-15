@@ -1,6 +1,7 @@
 <%@ page import="com.swx.bean.Person" %>
+<%@ page import="java.util.ArrayList" %>
 <%@ page import="java.util.List" %>
-<%@ page import="java.util.ArrayList" %><%--
+<%--
   Created by IntelliJ IDEA.
   User: swx
   Date: 2019/1/13
@@ -19,7 +20,7 @@
 <%=pageContext.getAttribute("name")%>
 <%--<c:set var="" value=""></c:set>--%>
 <%
-    List<Person> list=new ArrayList();
+    List<Person> list = new ArrayList<>();
     list.add(new Person(19,"joker"));
     list.add(new Person(20,"lisi"));
     list.add(new Person(21,"tesla"));
@@ -29,5 +30,7 @@
 <c:forEach var="user" items="${list}">
   ${user.name}
 </c:forEach>
+<%
+%>
 </body>
 </html>
