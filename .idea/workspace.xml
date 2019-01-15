@@ -7,29 +7,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5aee5dc9-fc44-4702-85cc-abadf44327c3" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swx/bean/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swx/dao/StudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swx/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swx/dao/impl/StudentDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swx/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swx/util/JDBCUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/stu_list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/swx/servlet/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/swx/servlet/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/swx/bean/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/swx/bean/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/swx/bean/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/swx/bean/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/swx/dao/StudentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/swx/dao/StudentDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/swx/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/swx/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/swx/dao/impl/StudentDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/swx/dao/impl/StudentDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/swx/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/swx/dao/impl/UserDaoImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/swx/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/swx/servlet/LoginServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mywebapp/WEB-INF/classes/com/swx/bean/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/mywebapp/WEB-INF/classes/com/swx/bean/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mywebapp/WEB-INF/classes/com/swx/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/mywebapp/WEB-INF/classes/com/swx/servlet/LoginServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mywebapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/mywebapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/swx/util/JDBCUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/swx/util/JDBCUtil.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -93,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/swx/bean/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="61" column="39" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
+            <state relative-caret-position="768">
+              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
               <folding>
                 <element signature="e#930#931#0" expanded="true" />
                 <element signature="e#962#963#0" expanded="true" />
@@ -213,7 +201,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="298" />
     <option name="y" value="302" />
     <option name="width" value="1400" />
@@ -332,7 +320,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547516307467" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547516504996" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../jlsfda-front" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -514,12 +502,12 @@
       <workItem from="1547477453496" duration="218000" />
       <workItem from="1547478547335" duration="2115000" />
       <workItem from="1547480763321" duration="8518000" />
-      <workItem from="1547515818944" duration="298000" />
+      <workItem from="1547515818944" duration="685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53694000" />
+    <option name="totallyTimeSpent" value="54081000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -532,7 +520,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49848944" visible="true" weight="0.28718784" />
       <window_info id="Structure" order="1" sideWeight="0.5011547" side_tool="true" weight="0.24972914" />
@@ -950,8 +937,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/swx/bean/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="61" column="39" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
+        <state relative-caret-position="768">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
           <folding>
             <element signature="e#930#931#0" expanded="true" />
             <element signature="e#962#963#0" expanded="true" />
